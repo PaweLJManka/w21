@@ -1,0 +1,14 @@
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/bin/Debug/net7.0/w21
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/bin/Debug/net7.0/w21.deps.json
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/bin/Debug/net7.0/w21.runtimeconfig.json
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/bin/Debug/net7.0/w21.dll
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/bin/Debug/net7.0/w21.pdb
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.AssemblyInfoInputs.cache
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.AssemblyInfo.cs
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.csproj.CoreCompileInputs.cache
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.dll
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/refint/w21.dll
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.pdb
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/w21.genruntimeconfig.cache
+/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/Debug/net7.0/ref/w21.dll
