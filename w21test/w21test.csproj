@@ -17,9 +17,7 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\w21\w21.csproj" />
-  </ItemGroup>
+
 
 
 
