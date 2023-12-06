@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/w21.csproj",
+      "projectUniqueName": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj",
       "projectName": "w21",
-      "projectPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/w21.csproj",
+      "projectPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj",
       "packagesPath": "/Users/pawelmanka/.nuget/packages/",
-      "outputPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21/obj/",
+      "outputPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pawelmanka/.nuget/NuGet/NuGet.Config"

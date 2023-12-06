@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj": {}
+    "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21test/w21test.csproj": {}
   },
   "projects": {
-    "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj": {
+    "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21test/w21test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj",
-        "projectName": "w21",
-        "projectPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/w21.csproj",
+        "projectUniqueName": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21test/w21test.csproj",
+        "projectName": "w21test",
+        "projectPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21test/w21test.csproj",
         "packagesPath": "/Users/pawelmanka/.nuget/packages/",
-        "outputPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21/obj/",
+        "outputPath": "/Users/pawelmanka/Desktop/Paweł/programowanie/C#/w21/w21test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pawelmanka/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,28 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
